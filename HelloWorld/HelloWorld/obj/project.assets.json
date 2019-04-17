@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\ramya\\Git\\CSCollection\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Code\\ramya\\Git2\\CSCollection\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "C:\\Code\\ramya\\Git\\CSCollection\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+      "projectPath": "C:\\Code\\ramya\\Git2\\CSCollection\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\sarsoma\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\ramya\\Git\\CSCollection\\HelloWorld\\HelloWorld\\obj\\",
+      "outputPath": "C:\\Code\\ramya\\Git2\\CSCollection\\HelloWorld\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
